@@ -14,7 +14,7 @@
 - Flask
 - PostgreSQL
 
-# What I Learned
+## What I Learned:
 
 - Flask
 - JSON Parsing
@@ -22,5 +22,5 @@
 - (...)
 
 ## TODO:
-[ ] Get list of stations
-[ ] Get real time departure information 
+- [ ] Get list of stations
+- [ ] Get real time departure information 
