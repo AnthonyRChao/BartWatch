@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CS50 Final Project
 
 ## Name: 
@@ -15,16 +14,13 @@
 - Flask
 - PostgreSQL
 
-## TODO:
-[ ] Get list of stations
-[ ] Get real time departure information 
-=======
-# BartWatch
-- A simple web application to display information about the BART (Bay Area Rapid Transit) system.
-
 # What I Learned
+
 - Flask
 - JSON Parsing
 - Familiarity with REST API
 - (...)
->>>>>>> 48ea4f4ae7f0838a2ba93ca59702831609a19128
+
+## TODO:
+[ ] Get list of stations
+[ ] Get real time departure information 
