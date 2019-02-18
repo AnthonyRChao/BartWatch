@@ -7,17 +7,17 @@
 - BART API (http://api.bart.gov/docs/overview/index.aspx)
 
 ## Technologies:
-- React
+- Boostrap 
 - Flask
-- PostgreSQL
+- SQLite 
 
 ## What I Learned:
-- Flask
+- Single Page Application 
 - JSON Parsing
-- Familiarity with REST API
+- REST API familiarity
 - (...)
 
 ## TODO:
-- [ ] GET list of stations
-- [ ] GET real time departure information based on a provided station name
+- [x] GET list of stations
+- [x] GET real time departure information based on a provided station name
 - [ ] Single Page Web Application Design Sketch
